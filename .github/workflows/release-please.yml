@@ -1,15 +1,14 @@
-name: Deploy to Staging
+name: release-please to Staging
 
 on:
   push:
     branches:
       - master
 
+permissions: read-all|write-all
+
 jobs:
   release-please:
-    permissions:
-      contents: write
-      pull-requests: write
     runs-on: ubuntu-latest
     outputs:
       release_created: ${{ steps.release.outputs.release_created }}
