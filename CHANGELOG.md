@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.0.0...v1.1.0) (2023-06-07)
+
+
+### Features
+
+* **hello:** update txt ([1d682d7](https://github.com/janjulienn-chrmd/MyTestRepo/commit/1d682d71df2f324dc2b617dda61234eb3dc3dd9d))
+
 ## [1.0.0](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v0.9.0...v1.0.0) (2023-06-07)
 
 
