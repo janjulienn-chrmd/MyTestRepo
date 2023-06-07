@@ -5,11 +5,12 @@ on:
     branches:
       - master
 
-permissions: write-all
-
 jobs:
   release-please:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     outputs:
       release_created: ${{ steps.release.outputs.release_created }}
       major: ${{ steps.release.outputs.major }}
@@ -20,6 +21,7 @@ jobs:
         uses: google-github-actions/release-please-action@v3
         id: release
         with:
+          token: ${{ secrets.JU_PAT }}
           release-type: simple
           command: manifest
 
