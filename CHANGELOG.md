@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.2](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.5.1...v1.5.2) (2023-06-07)
+
+
+### Bug Fixes
+
+* ignore any tagged pushes ([4c65a11](https://github.com/janjulienn-chrmd/MyTestRepo/commit/4c65a115f0e11ce83e61b6d69268484d93a676ce))
+
 ## [1.5.1](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.5.0...v1.5.1) (2023-06-07)
 
 
