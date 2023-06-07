@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.1.0...v1.1.1) (2023-06-07)
+
+
+### Bug Fixes
+
+* fix permissions issue (wrong syntax) ([e77a4e3](https://github.com/janjulienn-chrmd/MyTestRepo/commit/e77a4e35bfd76e233fddfec4724f53f9cf26dd7e))
+* use PAT and job specific permissions ([7b23dce](https://github.com/janjulienn-chrmd/MyTestRepo/commit/7b23dceedac1d22deb8069ba30246f6cf93db867))
+
 ## [1.1.0](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.0.0...v1.1.0) (2023-06-07)
 
 
