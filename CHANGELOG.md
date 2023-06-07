@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.2.0...v1.3.0) (2023-06-07)
+
+
+### Features
+
+* test commit filter ([a7c98e0](https://github.com/janjulienn-chrmd/MyTestRepo/commit/a7c98e04a63939d4455d3ef8b36897195e55cb44))
+
 ## [1.2.0](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.1.1...v1.2.0) (2023-06-07)
 
 
