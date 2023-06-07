@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.4.0...v1.5.0) (2023-06-07)
+
+
+### Features
+
+* remove negation on branch filter ([1f1304c](https://github.com/janjulienn-chrmd/MyTestRepo/commit/1f1304cf17a7b2f963bb6b9583c7bd248e4617bc))
+
 ## [1.4.0](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.3.0...v1.4.0) (2023-06-07)
 
 
