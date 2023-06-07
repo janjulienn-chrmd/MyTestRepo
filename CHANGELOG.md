@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.1](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.5.0...v1.5.1) (2023-06-07)
+
+
+### Bug Fixes
+
+* change branch filter ([dc3a70b](https://github.com/janjulienn-chrmd/MyTestRepo/commit/dc3a70bbbf0d3eda3430876a04308c2db3b79b08))
+
 ## [1.5.0](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.4.0...v1.5.0) (2023-06-07)
 
 
