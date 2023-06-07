@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.3.0...v1.4.0) (2023-06-07)
+
+
+### Features
+
+* add if on build test job ([0d517ee](https://github.com/janjulienn-chrmd/MyTestRepo/commit/0d517ee699341ca238740f18b42ac5a20ccb2c86))
+
 ## [1.3.0](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.2.0...v1.3.0) (2023-06-07)
 
 
