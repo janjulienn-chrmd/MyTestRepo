@@ -1,4 +1,4 @@
-name: release-please
+name: Deploy to Staging
 
 on:
   push:
