@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.1.1...v1.2.0) (2023-06-07)
+
+
+### Features
+
+* test commit for rp ([3405228](https://github.com/janjulienn-chrmd/MyTestRepo/commit/3405228cb0e87883dc5f91cdd113fe9554c67431))
+
 ## [1.1.1](https://github.com/janjulienn-chrmd/MyTestRepo/compare/v1.1.0...v1.1.1) (2023-06-07)
 
 
